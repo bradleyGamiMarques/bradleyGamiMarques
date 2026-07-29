@@ -14,20 +14,30 @@ My name is Bradley Marques and I am a senior software engineer with a passion fo
       </a>
 </p>
 
+## 🔭 I’m currently working on
+💎 Building a modern operating system for local game stores, hobby shops, and comic book stores.
+
+## ⏸️ On hold
+ 🐻 [BearlyAwake](https://github.com/bradleyGamiMarques/BearlyAwake) - A social media concept combining the features of Reddit style communities and forum posts with live chat functionality that is available in platforms such as Slack, and Discord.
+
 ## 📬 How to reach me
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outloo&logoColor=white)](mailto:bradleygamimarques@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bradleyGamiMarques)
 
 ## 🤔 I’m looking for help with
-- Finding a job (Preferably backend focused with heavy emphasis on Go and the AWS Cloud). Open to on-site in California, remote, and hybrid roles. 
+- Finding a job. Open to on-site / hybrid roles in California, and fully remote positions.
+
+## 😄 Pronouns
+- He/Him/His
 <!--
 **bradleyGamiMarques/bradleyGamiMarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
