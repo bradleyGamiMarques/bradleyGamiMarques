@@ -1,5 +1,5 @@
 ## Hello there 👋
-My name is Bradley Marques and I am a senior software engineer with a passion for cloud computing and back-end development. 
+My name is Bradley Marques and I am a senior software engineer with a passion for building distributed systems in AWS, maintaining and monitoring AWS infrastructure, and back-end development. 
 <h3 align="left">☁️ My AWS Certifications</h3>
 
 <p align"center">
@@ -13,12 +13,25 @@ My name is Bradley Marques and I am a senior software engineer with a passion fo
         <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="130" alt="AWS Certified Cloud Practitioner" />
       </a>
 </p>
+<h3 align="left">☁️ My AWS Badges</h3>
+
+<p align"center">
+      <a href="https://www.credly.com/badges/c8d596b5-9c93-42a5-b0ba-2e1162349398/public_url" target="_blank">
+        <img src="https://images.credly.com/images/320bfb8f-e722-41b9-a70a-c3fb07402981/blob" width="130" alt="AWS Cloud Quest: Solutions Architect - Training Badge" />
+      </a>
+      <a href="https://www.credly.com/badges/5f359728-be09-4374-bac8-8146492190ee/public_url" target="_blank">
+        <img src="https://images.credly.com/images/8dd6f516-0dd3-4b5e-aacf-8e86e737a95d/blob" width="130" alt="AWS Incident Response Demonstrated" />
+      </a>
+      <a href="https://www.credly.com/badges/0d21e12f-1da1-4471-8eaa-2e9c0750091f/public_url"target="_blank">
+        <img src="https://images.credly.com/images/b3885091-25bc-42d0-8989-34cca82f3056/blob" width="130" alt="AWS Serverless Demonstrated" />
+      </a>
+</p>
 
 ## 🔭 I’m currently working on
 💎 Building a modern operating system for local game stores, hobby shops, and comic book stores.
 
 ## ⏸️ On hold
- 🐻 [BearlyAwake](https://github.com/bradleyGamiMarques/BearlyAwake) - A social media concept combining the features of Reddit style communities and forum posts with live chat functionality that is available in platforms such as Slack, and Discord.
+ 🐻 [BearlyAwake](https://github.com/bradleyGamiMarques/BearlyAwake) - A social media concept combining the features of Reddit style communities and forum posts with live chat functionality that is available in platforms such as Slack and Discord.
 
 ## 📬 How to reach me
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outloo&logoColor=white)](mailto:bradleygamimarques@outlook.com)
