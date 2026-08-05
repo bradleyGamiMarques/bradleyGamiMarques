@@ -16,7 +16,7 @@ My name is Bradley Marques and I am a senior software engineer with a passion fo
 <h3 align="left">☁️ My AWS Badges</h3>
 
 <p align"center">
-        <a href="https://www.credly.com/badges/0d21e12f-1da1-4471-8eaa-2e9c0750091f/public_url"target="_blank">
+        <a href="https://www.credly.com/badges/18b5d5c0-2229-472f-9f6d-a77844d91084/public_url"target="_blank">
         <img src="https://images.credly.com/images/ba9ead92-64fb-4feb-afdf-145e93dae35f/blob" width="130" alt="
 AWS SimuLearn - Solutions Architect - Training Badge" />
       </a>
