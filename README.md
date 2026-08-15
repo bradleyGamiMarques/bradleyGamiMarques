@@ -33,6 +33,7 @@ AWS SimuLearn - Solutions Architect - Training Badge" />
 
 ## 🔭 I’m currently working on
 💎 Building a modern operating system for local game stores, hobby shops, and comic book stores.
+[coding-interview-patterns](https://github.com/bradleyGamiMarques/coding-interview-patterns)
 
 ## ⏸️ On hold
  🐻 [BearlyAwake](https://github.com/bradleyGamiMarques/BearlyAwake) - A social media concept combining the features of Reddit style communities and forum posts with live chat functionality that is available in platforms such as Slack and Discord.
