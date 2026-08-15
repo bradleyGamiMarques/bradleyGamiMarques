@@ -33,6 +33,7 @@ AWS SimuLearn - Solutions Architect - Training Badge" />
 
 ## 🔭 I’m currently working on
 💎 Building a modern operating system for local game stores, hobby shops, and comic book stores.
+
 [coding-interview-patterns](https://github.com/bradleyGamiMarques/coding-interview-patterns)
 
 ## ⏸️ On hold
