@@ -32,19 +32,22 @@ AWS SimuLearn - Solutions Architect - Training Badge" />
 </p>
 
 ## 🔭 I’m currently working on
-💎 Building a modern operating system for local game stores, hobby shops, and comic book stores.
 
-[coding-interview-patterns](https://github.com/bradleyGamiMarques/coding-interview-patterns)
+📜 Obtaining my Associates and Bachelor's degree in Japanese
+
+☕️ [Bits and Bytes](https://github.com/bradleyGamiMarques/BitsAndBytes)
+
 
 ## ⏸️ On hold
  🐻 [BearlyAwake](https://github.com/bradleyGamiMarques/BearlyAwake) - A social media concept combining the features of Reddit style communities and forum posts with live chat functionality that is available in platforms such as Slack and Discord.
+ 
+💎 Building a modern operating system for local game stores, hobby shops, and comic book stores.
+
+🧑🏽‍💻[coding-interview-patterns](https://github.com/bradleyGamiMarques/coding-interview-patterns)
 
 ## 📬 How to reach me
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outloo&logoColor=white)](mailto:bradleygamimarques@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bradleyGamiMarques)
-
-## 🤔 I’m looking for help with
-- Finding a job. Open to on-site / hybrid roles in California, and fully remote positions.
 
 ## 😄 Pronouns
 - He/Him/His
